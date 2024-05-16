@@ -2,31 +2,45 @@
 Sruthi M Ravikumar
 
 ### About Me
-> write about your self .................. (minimum 200 Characters)
-I am Sruthi M Ravikumar from Thrissur,I completed my Integrated MCA from Amrita Vishwa Vidyapeetham ,Kochi.
-> I have done a couple projects during my BCA. They both were websites .Onw was Dental Clinic Management and other was
-> online medical store. And I have also done few certification courses from Infosys Springboard.
+
+I am Sruthi M Ravikumar from Thrissur,I'm a Final Year MCA student from Amrita Vishwa Vidyapeetham ,Kochi. I'm really passionate to learn and adapt to new environment.I have done a couple projects during my BCA. I have strong foundation in different programming languages like C , C++ , Python , HTML , SQL , MS Office. And I have also done few certification courses from Infosys Springboard.
 
 ## Portfolio Highlights
-
+https://github.com/sruthirkumar/IEEE-LAUNCHPAD/edit/main/profiles/sruthimravikumar%40mulearn.md
+https://www.linkedin.com/in/sruthi-ravikumar-34819b294/
 ### My Projects
 
 | Name                | Description                                                               | Hosted Link                              | Repo Link                                                      |
 |---------------------|---------------------------------------------------------------------------|------------------------------------------|----------------------------------------------------------------|
-| **Project Name 1**  | Description of the project 1                                              | [Hosted Link 1](https://example.com)    | [Repo Link 1](https://github.com/username/project1)             |
-| **Project Name 2**  | Description of the project 2                                              | [Hosted Link 2](https://example.com)    | [Repo Link 2](https://github.com/username/project2)             |
+| **Project Name 1**  | Description of the project 1                                              | [Hosted Link 1]Online Medical Store   A website designed for Medical Store to manage its Orders from customers.
+  Management System      Its Functionalities are
+                            •	Receive orders from customers in online mode.
+                            •	Product delivery.
+                            •	Admin can add or remove supplies. 
+                            Front End: HTML ,CSS, JavaScript
+                            Back End: JSP
+                            Database: MYSQL.
+|
+| **Project Name 2**  | Description of the project 2                                              | [Hosted Link 2]Dental Clinic          An allrounder website designed to manage online Appointment of dental clinic.
+  Management System|      Its functionalities are
+                         •	Registered users are given administration access.
+                         •	Users with administration access can add and edit information.
+                         •	Tracking can be done using provided User Id.
+                         Front End: HTML, CSS 
+                         Back End: Python 
+                         Database: MYSQL
 
+   
 #### Leadership and Influence:
-
-- Explain how you meet the requirement for being a leader or influencer in your domain. Provide clear examples of your leadership and influencing skills.
+Through strong vision and goal setting helps me to shine the projects like Online Medical Store Management System and Dental Clinic Management System , where I led the software development team. Additionally, Research paper like Comparitive Examination Of GIF stegnography In Digital Comminication showcases my Networking Skill.
 
 #### Networking:
 
-- Explain your networking skills and how you plan to engage with the communitys. Outline how you will influence and lead others in your respective field.
+An active Learner of G-Tech Mulearn Discord Server From April 2024.
 
 #### Career Plan:
 
-- Outline your immediate and longer-term plans to contribute to making the Kerala Startup Ecosystem better.
+I am eager to kickstart my career in Information Technology with a distinguished organization. My goal is to enrich my blend of technical proficiency and interpersonal skills towards attaining organizational objectives while fostering my personal growth and career advancement. hands-on experience and apply my blend of technical proficiency and interpersonal skills towards attaining organizational objectives while fostering my personal growth and career advancement.
 
 #### Thoughts on Kerala's Tech Ecosystem:
 
@@ -37,21 +51,21 @@ I am Sruthi M Ravikumar from Thrissur,I completed my Integrated MCA from Amrita 
 - Share details of your open-source contributions, whether they are your own projects or contributions to highly popular projects in the open-source community.
 
 #### History of Community Engagement:
-
--  Discuss your history of community engagement in a technical capacity, such as answering questions on platforms like Stack Overflow or actively participating in technical forums like mailing lists and Discord servers.
+I participate in Mulearn Discord server, where collaborate with others on technical topics.
+I have been actively engaged in online technical sites like hackerrank, w3schools, etc. I am in the mulearn community and doing the tasks assigned in each level.
 
 #### Highly Visible Technical Content:
+I'm technically strong in programming languages such as C++, C, HTML, Python, MySQL, MS Office. 
+I actively participated in Real time projects like Online Medical Store Management System and Dental Clinic Management System and Research Paper "Comparitive Examination Of GIF stegnography In Digital Comminication" . By utilizing my technical skills.
 
-- Highlight any highly visible technical blog posts, articles, or video series you have created.
 
 #### Highly Used Software Tools:
-
-- If you've developed software tools that are widely used by users (not just contributors), mention them.
+ Google Colab
 
 #### Competitive Website Profiles:
 
-- Share your profiles on competitive websites like Exercism, HackerRank, Kaggle, or any others you're active on.
 
+ https://www.hackerrank.com/profile/sruthirkumar1
 
 
 > In your portfolio, include the following details:
